@@ -6,7 +6,7 @@
 
 # 実行結果
 
-![state_wise_daily](/image/India_state_wise_daily.png)
+![India_state_wise_daily](/image/India.png)
 
 <!--
 import pandas as pd
