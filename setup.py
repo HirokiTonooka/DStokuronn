@@ -7,7 +7,7 @@ setuptools.setup(
     name="test.py",
     version="0.2.3",
     author="Hiroki Tonooka",
-    author_email="https://github.com/HirokiTonooka/DStokuronn",
+    author_email="s2022023@stu.musashino-u.ac.jp",
     description='A package for visualization of aggregate data of players in "test.py"',
     long_description=long_description,
     long_description_content_type="text/markdown",
