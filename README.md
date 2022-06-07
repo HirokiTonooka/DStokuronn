@@ -4,6 +4,8 @@
 
 # state_wise_daily.csv 　　インドの各州のコロナの状態を表している csv ファイルです。
 
+# インドの各州のコロナの状態をグラフを用いて解析しました。
+
 # 実行結果
 
 ![India_state_wise_daily](/image/India.png)
