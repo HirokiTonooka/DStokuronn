@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setuptools.setup(
     name="test.py",
     version="0.0.2",
-    author="rikito ohnishi",
+    author="Hiroki Tonooka",
     author_email="ohnishi.https://github.com/HirokiTonooka/DStokuronn",
     description='A package for visualization of aggregate data of players in "test.py"',
     long_description=long_description,
